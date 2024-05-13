@@ -43,7 +43,7 @@ int main()
 	mhs1.printAll();
 	mhs2.printAll();
 	mhs3.printAll();
-	mhs4.printAll();
+	mhs4.printAll(); 
 	return 0;
 }
 
